@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1545128477 source:c:\users\user\desktop\hash\main.cpp
+	<iostream>
+	"function.h"
+
+1545128477 c:\users\user\desktop\hash\function.h
+	<vector>
+	<list>
+	<iostream>
+	<string>
+
+1545135017 source:c:\users\user\desktop\hash\function.cpp
+	<iostream>
+	"function.h"
+	<bits/stdc++.h>
+

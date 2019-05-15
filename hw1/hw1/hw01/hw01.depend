@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539179118 source:c:\users\user\desktop\資料結構\hw1\hw1\hw01\main.cpp
+	<iostream>
+	<cstdio>
+	"function.h"
+
+1539070890 c:\users\user\desktop\資料結構\hw1\hw1\hw01\function.h
+	<iostream>
+
+1539325397 source:c:\users\user\desktop\資料結構\hw1\hw1\hw01\function.cpp
+	"function.h"
+
